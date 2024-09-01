@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Thiago Roncoli!
 
-![Header Animation](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+![Header Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Sou um estudante de **Ciências da Computação** focado em aprimorar minhas habilidades. Estou sempre em busca de oportunidades para aprender e colaborar em projetos que possam transformar ideias em realidade.
 
