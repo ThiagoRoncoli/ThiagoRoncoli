@@ -2,12 +2,12 @@
 
 ![Header Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Sou um estudante de **Ciências da Computação** focado em aprimorar minhas habilidades. Estou sempre em busca de oportunidades para aprender e colaborar em projetos que possam transformar ideias em realidade.
+Sou um estudante de **Ciências da Computação** focado em sempre buscar novos conhecimentos. Estou sempre em busca de oportunidades para aprender e colaborar em projetos que possam transformar ideias em realidade.
 
 ## 🚀 Sobre mim
 
 - 🎓 Atualmente, estou no segundo semestre de **Ciências da Computação**.
-- 🌱 Estou constantemente aprendendo novas habilidades e aprimorando meus conhecimentos em desenvolvimento **front-end** e **UI/UX Design**.
+- 🌱 Estou constantemente aprendendo novas habilidades e aprimorando meus conhecimentos.
 - 🤝 Estou aberto a colaborar em projetos que possam me ajudar a crescer e desenvolver minhas habilidades.
 - 🎯 Objetivo: Conseguir uma oportunidade de estágio ou emprego na área de desenvolvimento, além de contribuir com a comunidade open-source.
 
