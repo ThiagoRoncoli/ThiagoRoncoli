@@ -32,6 +32,9 @@ Sou estudante de **Ciência da Computação** com foco em desenvolvimento web e 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-4078c0?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
+
 ---
 ## 📈 Minhas Estatísticas no GitHub
 
