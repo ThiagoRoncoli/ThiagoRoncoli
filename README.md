@@ -33,6 +33,15 @@ Sou estudante de **Ciência da Computação** com foco em desenvolvimento web e 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-4078c0?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FBE13B?style=for-the-badge&logo=xampp&logoColor=black)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-FF6D00?style=for-the-badge&logo=mercadopago&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0093D0?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+
+
+
 
 
 ---
